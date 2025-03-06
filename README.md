@@ -1,84 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tharindu Malinga - GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-            text-align: center;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            color: #333;
-        }
-        .highlight {
-            color: #007bff;
-            font-weight: bold;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            background: #e3f2fd;
-            margin: 5px 0;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        .links a {
-            text-decoration: none;
-            color: #007bff;
-            font-weight: bold;
-            display: inline-block;
-            margin: 10px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>👋 Hi there, I'm <span class="highlight">Tharindu Malinga</span></h1>
-        <h3>BSc (Hons) in IT - Specializing in Software Engineering</h3>
-        <p>I am a passionate and dedicated software developer with a strong interest in problem-solving, web and mobile application development, and emerging technologies.</p>
-        
-        <h2>🔹 Technical Skills</h2>
-        <ul>
-            <li><strong>Languages:</strong> Java, JavaScript, C++, C#, Python</li>
-            <li><strong>Web Development:</strong> MERN & PERN Stack (MongoDB, Express, React, Node.js, PostgreSQL)</li>
-            <li><strong>Mobile Development:</strong> Android (Java, Firebase)</li>
-            <li><strong>Databases:</strong> MySQL, MongoDB, PostgreSQL, Firebase, Oracle</li>
-            <li><strong>Frameworks & Tools:</strong> React, Vue, Express.js, Flask, Bootstrap, PyTorch</li>
-            <li><strong>Version Control:</strong> Git & GitHub</li>
-            <li><strong>Design & UI/UX:</strong> Figma, Draw.io, Miro</li>
-        </ul>
-        
-        <h2>🚀 Projects</h2>
-        <ul>
-            <li><strong>Blood Bank Management System</strong> (MERN Stack)</li>
-            <li><strong>Agriculture Hub Web App</strong> (MERN Stack)</li>
-            <li><strong>Optical & Eye Channeling System</strong> (MERN Stack)</li>
-            <li><strong>Eat24 Mobile App</strong> (Android, Firebase)</li>
-            <li><strong>Ticket Reservation System</strong> (ASP.NET Core, MERN Stack, Java)</li>
-            <li><strong>Mathematical Q&A & Book Rental Web App</strong> (Ongoing - PERN Stack)</li>
-        </ul>
-        
-        <h2>📫 Connect with Me</h2>
-        <div class="links">
-            <a href="https://www.linkedin.com/in/tmsirikumara" target="_blank">💼 LinkedIn</a>
-            <a href="https://github.com/it20651060" target="_blank">🔗 GitHub</a>
-            <a href="mailto:tharindumalinga.sk@gmail.com">📧 Email</a>
-        </div>
-    </div>
-</body>
-</html>
+<h1 align="center">Hi 👋, I'm Tharindu Malinga</h1>
+<h3 align="center">BSc (Hons) in IT - Specializing in Software Engineering</h3>
+<h3 align="center">I am a passionate and dedicated software developer with a strong interest in problem-solving, web and mobile application development, and emerging technologies.</h3>
+
+### 🔹 Technical Skills
+
+- **Languages**: Java, JavaScript, C++, C#, Python
+- **Web Development**: MERN & PERN Stack (MongoDB, Express, React, Node.js, PostgreSQL)
+- **Mobile Development**: Android (Java, Firebase)
+- **Databases**: MySQL, MongoDB, PostgreSQL, Firebase, Oracle
+- **Frameworks & Tools**: React, Vue, Express.js, Flask, Bootstrap, PyTorch
+- **Version Control**: Git & GitHub
+- **Design & UI/UX**: Figma, Draw.io, Miro
+
+### 🚀 Projects
+
+- **Blood Bank Management System** (MERN Stack)
+- **Agriculture Hub Web App** (MERN Stack)
+- **Optical & Eye Channeling System** (MERN Stack)
+- **Eat24 Mobile App** (Android, Firebase)
+- **Ticket Reservation System** (ASP.NET Core, MERN Stack, Java)
+- **Mathematical Q&A & Book Rental Web App** _(Ongoing - PERN Stack)_
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=it20651060&label=Profile%20views&color=0e75b6&style=flat" alt="it20651060" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it20651060" alt="it20651060" /></a> </p>
+
+- 📫 How to reach me **tharindumalinga.sk@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/tmsirikumara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/tmsirikumara" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20651060&show_icons=true&locale=en&layout=compact" alt="it20651060" /></p>
